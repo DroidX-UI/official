@@ -20,7 +20,7 @@ Before you apply to add your device into our list of official devices, you shoul
 
 9. You should release an unofficial build and **MUST** attach a link in the maintainership form
 
-10. You **MUST** meet all requirements as mentioned [here](docs/device_requirements.md).
+10. You **MUST** meet all requirements as mentioned [here](device_requirements.md).
 
 If all is well, you may apply [here](https://github.com/DROIDX-UI/official/issues/new/choose)
 
