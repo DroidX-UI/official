@@ -16,6 +16,7 @@
 - Realme C3/Narzo 10A (RMX2020)
 - Realme Gt neo 3t (RMX3371)
 - Realme 5/5i/5s (r5x)
+- Realme 7 Pro (RMX2170)
 ```
 
 ### • Redmi Devices
