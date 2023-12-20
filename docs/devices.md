@@ -36,6 +36,7 @@
 - Mi 11t pro (vili)
 - Redmi 9 Power/Poco M3 (chime)
 - Redmi Note 8 pro (begonia)
+- Redmi Note 11 (spes)
 ```
 
 ### • Poco Devices
