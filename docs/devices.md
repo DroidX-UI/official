@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/latest.png" />
+  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/14/banners/latest.png" />
 </p>
 
 # OFFICIAL Devices of DroidX-UI
@@ -12,11 +12,9 @@
 
 ### • Realme Devices
 ```
-- Realme 3 Pro (RMX1851)
 - Realme C3/Narzo 10A (RMX2020)
 - Realme Gt neo 3t (RMX3371)
-- Realme 5/5i/5s (r5x)
-- Realme 7 Pro (RMX2170)
+- Realme 7 pro (RMX2170)
 ```
 
 ### • Redmi Devices
@@ -27,30 +25,37 @@
 - Redmi Note 9 Pro (Miatoll)
 - Redmi Note 10 Pro (sweet)
 - Redmi K20 pro (Raphael)
-- Redmi Note 7/7S (lavender)
-- Redmi 6pro (sakura)
-- Redmi 12 5G (sky)
-- Redmi Note 5pro (whyred)
+- Redmi 6 pro (sakura)
 - Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa)
 - Mi 11x Pro/K40 Pro+_/Mi_ 11i (haydn)
 - Mi 11t pro (vili)
 - Redmi 9 Power/Poco M3 (chime)
-- Redmi Note 8 pro (begonia)
 - Redmi Note 11 (spes)
+- Redmi Note 6 pro (tulip) 
+- Redmi Note 7/7S (lavender) 
+- Redmi Note 8 pro (begonia)
+- Redmi Note 12 4G (topaz)
+- Redmi 12 5g (sky)
+- Mi 10T/Pro/K30S ultra (apollo)
 ```
 
 ### • Poco Devices
 ```
 - Poco X3 Pro (Vayu)
-- Poco F3/Mi 11X (Alioth)
 - Poco F5 (marble)
 - Poco X3 nfc (surya)
 - Poco X5 pro (redwood)
+- Poco M4 Pro (fleur)
+- Poco M3 Pro (camellia)
+- Poco X5 5g/Note 12 5g (stone)
 ```
 
 ### • Oneplus Devices
 ```
-- OnePlus 9RT (Martini)
+- Oneplus 8 (instantnoodle)
+- Oneplus 8 Pro (instantnoodlep)
+- Oneplus 8T (kebab)
+- Oneplus 9R  (lemonades
 ```
 
 ### • Samsung Devices
@@ -70,3 +75,18 @@
 - Motorola G42 (hawao)
 - Motorola G52 (rhode)
 ```
+
+### • Pixel Devices
+```
+- Google Pixel 7 (Panther)
+```
+
+
+### • Nothing Devices
+```
+- Nothing Phone 2 (pong)
+```
+
+### Official Support Group & Channel
+ * [**DroidX-UI Telegram Updates**](https://t.me/DroidXUI_announcements)
+ * [**DroidX-UI Telegram Community**](https://t.me/DroidXUI_chats)
