@@ -29,6 +29,7 @@
 - Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa)
 - Mi 11x Pro/K40 Pro+_/Mi_ 11i (haydn)
 - Mi 11t pro (vili)
+- Redmi 9 (lancelot)
 - Redmi 9 Power/Poco M3 (chime)
 - Redmi Note 11 (spes)
 - Redmi Note 6 pro (tulip) 
