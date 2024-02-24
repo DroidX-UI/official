@@ -75,6 +75,7 @@
 - Motorola G32 (devon)
 - Motorola G42 (hawao)
 - Motorola G52 (rhode)
+- Motorola Edge 30 Ultra (eqs)
 ```
 
 ### • Pixel Devices
